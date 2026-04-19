@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="https://discord.com/users/797467886456930304"><img src="https://img.shields.io/badge/KRYSIEKZ%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href="https://www.instagram.com/cocuksube_kayra/" target"blank_"><img src="https://img.shields.io/badge/COCUKSUBE_KAYRA%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.instagram.com/kayra.kry07/" target"blank_"><img src="https://img.shields.io/badge/KAYRA.KRY07%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://steamcommunity.com/id/siber_suclarla_mucadele/" target"blank_"><img src="https://img.shields.io/badge/KRYSIEKZ-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
  <a href="https://x.com/Krysiekz_07" target"blank_"><img src="https://img.shields.io/badge/KRYSIEKZ-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
  <a href="https://www.twitch.tv/krysiekz" target"blank_"><img src="https://img.shields.io/badge/KRYSIEKZ-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
